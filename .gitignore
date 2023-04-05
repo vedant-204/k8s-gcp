@@ -43,3 +43,4 @@ worker-1.kubeconfig
 worker-1.pem
 worker-2-csr.json
 worker-2.csr
+encryption-config.yaml
